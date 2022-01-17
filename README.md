@@ -4,6 +4,6 @@ The original file was too large to upload to github but he output file is the te
 
 # Technologies
 
-    IBM Watson's Language Translation
-    Python
-    Google Collaboratory
+- IBM Watson's Language Translation
+- Python
+- Google Collaboratory
